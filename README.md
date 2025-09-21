@@ -16,7 +16,7 @@ Steps involved in the project:
 * Tableau: Advanced visual storytelling, filters, and drill-down features.
 
 📂 Dashboards
-![Excel Dashboard]()
+![Excel Dashboard](https://github.com/prakartisharmas/Data-Analyst-Portfolio-Project/blob/main/Excel%20Dashboard.png)
 
 ![Power BI Dashboard]()
 

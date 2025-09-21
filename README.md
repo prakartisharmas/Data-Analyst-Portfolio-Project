@@ -24,7 +24,7 @@ Steps involved in the project:
 
 
 📑 Dataset
-The dataset used for this project can be accessed here:[Dataset](https://github.com/prakartisharmas/Data-Analyst-Portfolio-Project/blob/main/HR%20DATA_Excel%20(1).xlsx)
+The dataset used for this project can be accessed here:(https://github.com/prakartisharmas/Data-Analyst-Portfolio-Project/blob/main/HR%20DATA_Excel%20(1).xlsx)
 
 
 📌 Key Insights

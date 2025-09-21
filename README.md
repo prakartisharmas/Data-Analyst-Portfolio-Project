@@ -18,7 +18,7 @@ Steps involved in the project:
 📂 Dashboards
 ![Excel Dashboard](https://github.com/prakartisharmas/Data-Analyst-Portfolio-Project/blob/main/Excel%20Dashboard.png)
 
-![Power BI Dashboard]()
+![Power BI Dashboard](https://github.com/prakartisharmas/Data-Analyst-Portfolio-Project/blob/main/Power%20BI%20Dashboard.png)
 
 ![Tableau Dashboard]()
 

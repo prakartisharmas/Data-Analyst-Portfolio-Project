@@ -20,11 +20,11 @@ Steps involved in the project:
 
 ![Power BI Dashboard](https://github.com/prakartisharmas/Data-Analyst-Portfolio-Project/blob/main/Power%20BI%20Dashboard.png)
 
-![Tableau Dashboard]()
+![Tableau Dashboard](https://github.com/prakartisharmas/Data-Analyst-Portfolio-Project/blob/main/Tableau%20Dashboard.png)
 
 
 📑 Dataset
-The dataset used for this project can be accessed here:[Dataset](https://github.com/Shagun6395/Data-Analyst-Portfolio-Project/blob/main/Dataset.xlsx)
+The dataset used for this project can be accessed here:[Dataset]()
 
 
 📌 Key Insights

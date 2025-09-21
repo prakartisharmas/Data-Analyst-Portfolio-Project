@@ -1,6 +1,6 @@
 📊 Data Analyst Portfolio Project:
 
-<img width="1200" height="700" src= https://github.com/user-attachments/assets/3801b12f-61bc-4ba7-a6f6-85f6b216a229 >
+<img width="1200" height="500" src= https://github.com/user-attachments/assets/3801b12f-61bc-4ba7-a6f6-85f6b216a229 >
 
 
 
